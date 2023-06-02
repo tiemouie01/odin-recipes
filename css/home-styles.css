@@ -1,0 +1,26 @@
+h1 {
+    background-color: darkorange;
+    color: white;
+    font-size: 36px;
+    text-align: center;
+    font-family: "Lucida Console", "Brush Script", sans-serif;
+}
+
+.recipe {
+    background-color: darkgoldenrod;
+    font-size: 24px;
+    font-family: "Courier New", "Lucida Handwriting", sans-serif;
+}
+
+.recipe.chicken {
+    color: red;
+}
+
+.recipe.asparagus {
+    background-color:green;
+    color:white;
+}
+
+.recipe.hamburger {
+    color:brown;
+}
