@@ -8,17 +8,18 @@ h1 {
 
 .recipe {
     background-color: darkgoldenrod;
+    color: blue;
     font-size: 24px;
     font-family: "Courier New", "Lucida Handwriting", sans-serif;
 }
 
 .recipe.chicken {
-    color: red;
+    color: white;
 }
 
 .recipe.asparagus {
     background-color:green;
-    color:white;
+    color: orangered;
 }
 
 .recipe.hamburger {
