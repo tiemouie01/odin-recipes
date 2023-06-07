@@ -3,11 +3,11 @@
 }
 
 h1 {
-    background-color: darkorange;
-    color: white;
+    background-color: violet;
+    color: purple;
     font-size: 36px;
     text-align: center;
-    font-family: "Lucida Console", "Brush Script", sans-serif;
+    font-family: "Times New Roman", Helvetica, sans-serif;
 }
 
 h2 {
@@ -18,22 +18,27 @@ h2 {
 }
 
 .recipe {
-    background-color: darkgoldenrod;
+    display: inline-block;
+    background-color: violet;
     color: blue;
     font-size: 24px;
     font-family: "Courier New", "Lucida Handwriting", sans-serif;
+    padding: 8px;
+    margin: 5px auto;
 }
 
 .recipe.chicken {
-    color: white;
+    background-color: blueviolet;
+    color: violet;
 }
 
 .recipe.asparagus {
     background-color:green;
-    color: orangered;
+    color: lightgreen;
 }
 
 .recipe.hamburger {
+    background-color: darkorange;
     color:brown;
 }
 
@@ -59,13 +64,13 @@ img {
 
 .top-button {
     display:block;
-    background-color: yellow;
+    background-color: violet;
     padding: 8px;
     margin: 5px auto;
 }
 
 .top-link {
-    background-color: yellow;
+    background-color: violet;
     color: white;
     margin: 0 auto;
 }
