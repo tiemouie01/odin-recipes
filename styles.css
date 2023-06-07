@@ -1,0 +1,71 @@
+* {
+    background-color: blueviolet;
+}
+
+h1 {
+    background-color: darkorange;
+    color: white;
+    font-size: 36px;
+    text-align: center;
+    font-family: "Lucida Console", "Brush Script", sans-serif;
+}
+
+h2 {
+    background-color: purple;
+    color: lightpink;
+    font-size: 24px;
+    text-align: center;
+}
+
+.recipe {
+    background-color: darkgoldenrod;
+    color: blue;
+    font-size: 24px;
+    font-family: "Courier New", "Lucida Handwriting", sans-serif;
+}
+
+.recipe.chicken {
+    color: white;
+}
+
+.recipe.asparagus {
+    background-color:green;
+    color: orangered;
+}
+
+.recipe.hamburger {
+    color:brown;
+}
+
+img {
+    display: block;
+    height: auto;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.home-button {
+    display: block;
+    padding: 8px;
+    background-color: red;
+    margin: 5px auto;
+}
+
+.home-link {
+    background-color: red;
+    color: white;
+    margin: 0 auto;
+}
+
+.top-button {
+    display:block;
+    background-color: yellow;
+    padding: 8px;
+    margin: 5px auto;
+}
+
+.top-link {
+    background-color: yellow;
+    color: white;
+    margin: 0 auto;
+}
